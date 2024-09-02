@@ -14,6 +14,8 @@
 - 📱 I’m currently learning **Flutter**
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/rababhamdyy?tab=repositories)**
 
+<br>
+
 <div align="center">
 
 ### 🛠 &nbsp;Skills & Technologies
@@ -56,8 +58,8 @@
 ### 🤝 Connect With Me
 
 <div align="center">
-    <a href="linkedin.com/in/rabab-hamdy-91958019b" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <a href="https://linkedin.com/in/rabab-hamdy-91958019b" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
 
